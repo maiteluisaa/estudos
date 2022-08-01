@@ -1,4 +1,4 @@
-# estudos
+# Estudos
 
 Repositório para estudos de html e css do curso em vídeo.
 
